@@ -1,4 +1,4 @@
-// Icons
+// confirmation icons
 webFXTreeConfig.rootIcon = "./assets/svg/folderIcon.svg";
 webFXTreeConfig.openRootIcon = "./assets/svg/openFolderIcon.svg";
 webFXTreeConfig.folderIcon = "./assets/svg/folderIcon.svg";
@@ -13,6 +13,5 @@ webFXTreeConfig.iIcon = "./assets/svg/iIcon.svg";
 webFXTreeConfig.lIcon = "./assets/svg/lIcon.svg";
 webFXTreeConfig.tIcon = "./assets/svg/tIcon.svg";
 
-let rti;
-let tree = new WebFXLoadTree("Tipiṭaka (Roman)", "./cscd/tipitaka_toc.xml");
+const tree = new WebFXLoadTree("Tipiṭaka (Roman)", "./cscd/tipitaka_toc.xml");
 document.write(tree);
