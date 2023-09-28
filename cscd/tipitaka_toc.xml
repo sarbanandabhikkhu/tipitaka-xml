@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <tree>
-  <tree text="Tipiṭaka (Mūla)" src="./cscd/toc1.xml" />
-  <tree text="Aṭṭhakathā" src="./cscd/toc2.xml" />
-  <tree text="Tīkā" src="./cscd/toc3.xml" />
-  <tree text="Anya" src="./cscd/toc4.xml" />
+  <tree text="Tipiṭaka (Mūla)" src="./cscd/tipitaka_toc1.xml" />
+  <tree text="Aṭṭhakathā" src="./cscd/tipitaka_toc2.xml" />
+  <tree text="Tīkā" src="./cscd/tipitaka_toc3.xml" />
+  <tree text="Anya" src="./cscd/tipitaka_toc4.xml" />
 </tree>

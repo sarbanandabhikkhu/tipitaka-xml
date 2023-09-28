@@ -1,5 +1,5 @@
 /* 
-  Tipitaka stylesheet for Unicode Latin encoding. 
+  Tipitaka stylesheet for Unicode encoding. 
 */
 
 @font-face {
@@ -42,6 +42,7 @@ p {
   font-size: 14px;
   text-indent: 25px;
   margin-left: 25px;
+  font-style: italic;
 }
 
 .bodytext {
@@ -132,4 +133,3 @@ p {
   margin-left: 50px;
   margin-bottom: 25px;
 }
-

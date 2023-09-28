@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xsl:stylesheet xmlns:xsl = "http://www.w3.org/1999/XSL/Transform" version = "1.0" > 
+
 
 <xsl:template match = "/" > 
 <html>
@@ -11,6 +13,7 @@
 </head>
 <body>
 <xsl:apply-templates select="/*"/>
+<script src="./tipitaka-latn.js" type="module"></script>
 </body>
 </html>
 </xsl:template>
