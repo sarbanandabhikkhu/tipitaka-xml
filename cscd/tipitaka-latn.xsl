@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl = "http://www.w3.org/1999/XSL/Transform" version = "1.0" >
 
-<xsl:stylesheet xmlns:xsl = "http://www.w3.org/1999/XSL/Transform" version = "1.0" > 
-
-
-<xsl:template match = "/" > 
+<xsl:template match = "/" >
 <html>
 <head>
 <title></title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="stylesheet" href="tipitaka-latn.css"/>
+<link rel="stylesheet" href="../css/dictionary.css" type="text/css"/>
+<link rel="stylesheet" href="tipitaka-latn.css" type="text/css"/>
+<script src="./tipitaka-latn.js" type="module"></script>
 </head>
 <body>
-<xsl:apply-templates select="/*"/>
-<script src="./tipitaka-latn.js" type="module"></script>
+<article><xsl:apply-templates select="/*"/></article>
+<section id="dic-panel"></section>
 </body>
 </html>
 </xsl:template>
 
 <xsl:template match='p[@rend="bodytext"]'>
-<p class="bodytext">
-  <!-- if the n attribute is set, create an HTML anchor for the paragraph in the form para### -->
-  <xsl:if test="@n">
-    <a>
-      <xsl:attribute name="name">
-        <xsl:text>para</xsl:text>
-        <xsl:value-of select="@n"/>
-      </xsl:attribute>
-    </a>
-  </xsl:if>
+<p class="text">
+<!-- if the n attribute is set, create an HTML anchor for the paragraph in the form para### -->
+<xsl:if test="@n">
+<a>
+<xsl:attribute name="name">
+<xsl:text>para</xsl:text>
+<xsl:value-of select="@n"/>
+</xsl:attribute>
+</a>
+</xsl:if>
 <xsl:apply-templates/>
 </p>
 </xsl:template>
 
 <xsl:template match='p[@rend="hangnum"]'>
 <p class="hangnum">
-  <!-- if the n attribute is set, create an HTML anchor for the paragraph in the form para### -->
-  <xsl:if test="@n">
-    <a>
-      <xsl:attribute name="name">
-        <xsl:text>para</xsl:text>
-        <xsl:value-of select="@n"/>
-      </xsl:attribute>
-    </a>
-  </xsl:if>
+<!-- if the n attribute is set, create an HTML anchor for the paragraph in the form para### -->
+<xsl:if test="@n">
+<a>
+<xsl:attribute name="name">
+<xsl:text>para</xsl:text>
+<xsl:value-of select="@n"/>
+</xsl:attribute>
+</a>
+</xsl:if>
 <xsl:apply-templates/>
 </p>
 </xsl:template>
@@ -65,7 +65,7 @@
 </xsl:template>
 
 <xsl:template match='hi[@rend="bold"]'>
-<span class="bld"><xsl:apply-templates/></span>
+<b><xsl:apply-templates/></b>
 </xsl:template>
 
 <xsl:template match='hi[@rend="paranum"]'>

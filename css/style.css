@@ -1,19 +1,19 @@
 @font-face {
   font-family: "Roman-Script";
-  src: url("./fonts/Verajja-Regular.ttf") format("truetype");
+  src: url("../fonts/Verajja-Regular.ttf") format("truetype");
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Roman-Script";
 }
 
 body {
   width: 100vw;
   padding: 10px;
   min-height: 100vh;
-  font-family: "Roman-Script";
   font-size: 14px;
 }
 
