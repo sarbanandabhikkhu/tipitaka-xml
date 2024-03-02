@@ -3,11 +3,20 @@
   src: url("../fonts/Verajja-Regular.ttf") format("truetype");
 }
 
-* {
+*,
+::before,
+::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: "Roman-Script";
+}
+* {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+*::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
 }
 
 body {
@@ -15,53 +24,6 @@ body {
   padding: 10px;
   min-height: 100vh;
   font-size: 14px;
-}
-
-.webfx-tree-container {
-  margin: 0px;
-  padding: 0px;
-  font: icon;
-  white-space: nowrap;
-}
-
-.webfx-tree-item {
-  padding: 0px;
-  margin: 0px;
-  font: icon;
-  color: WindowText;
-  white-space: nowrap;
-  height: 18px;
-}
-
-.webfx-tree-item a,
-.webfx-tree-item a:active,
-.webfx-tree-item a:hover {
-  margin-left: 3px;
-  padding: 0px 2px 1px 2px;
-}
-
-.webfx-tree-item a {
+  background: white;
   color: black;
-  text-decoration: none;
-}
-
-.webfx-tree-item a:hover {
-  color: #0174fd;
-  text-decoration: underline;
-}
-
-.webfx-tree-item a:active {
-  background: highlight;
-  color: highlighttext;
-  text-decoration: none;
-}
-
-.webfx-tree-item img {
-  vertical-align: middle;
-  border: 0px;
-}
-
-.webfx-tree-icon {
-  width: 16px;
-  height: 18px;
 }

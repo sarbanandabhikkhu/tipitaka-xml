@@ -1,0 +1,93 @@
+/* ---- Body Font ------*/
+
+@font-face {
+  font-family: "Roman-Script";
+  src: url("../fonts/Verajja-Regular.ttf") format("truetype");
+}
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roman-Script";
+}
+* {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+*::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+}
+
+.wheel {
+  height: auto;
+  max-height: 100px;
+}
+
+body {
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 10px;
+  color: #4f4d47;
+  text-align: left;
+  background-color: #fff;
+}
+
+/* ---- Container CSS ------*/
+.header,
+main,
+footer {
+  width: 100%;
+  padding: 25px 5% 0 5%;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 50px;
+}
+
+p {
+  text-indent: 3%;
+  margin: 15px 0;
+}
+
+ol,
+ul {
+  margin-left: 5%;
+}
+
+footer {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: 50px 10% 25px 10%;
+  border-top: 1px solid lightgray;
+}
+
+/*--removing underline from links */
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 0.125em;
+  text-decoration-color: #b78730;
+  background-color: #f0dfbf;
+}
+a:active {
+  text-decoration: none;
+}
