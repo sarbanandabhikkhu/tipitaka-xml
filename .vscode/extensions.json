@@ -2,11 +2,13 @@
   "recommendations": [
     "ritwickdey.liveserver",
     "esbenp.prettier-vscode",
-    "dotjoshjohnson.xml",
     "simonsiefke.svg-preview",
     "bierner.markdown-preview-github-styles",
     "formulahendry.auto-rename-tag",
     "vscode-icons-team.vscode-icons",
-    "github.vscode-github-actions"
+    "github.vscode-github-actions",
+    "marvinhagemeister.vscode-xslt-snippets",
+    "dotjoshjohnson.xml",
+    "buianhthang.xml2json"
   ]
 }
