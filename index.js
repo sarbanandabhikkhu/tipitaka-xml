@@ -1,7 +1,7 @@
 // application init
 document.getElementById("app").innerHTML = new WebFXLoadTree("Tipiṭaka (Roman)", "./cscd/tipitaka_toc.xml");
 
-fetch("https://sarbanandabhikkhu.github.io/tipitaka-xml/cscd/vin01m.mul0.xml")
+fetch("https://sarbanandabhikkhu.github.io/tipitaka-xml/playground/mul.vin0.xml")
   .then((response) => response.text())
   .then((data) => {
     //console.log(data);
