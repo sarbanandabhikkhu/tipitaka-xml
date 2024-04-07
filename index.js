@@ -7,5 +7,15 @@ fetch("https://sarbanandabhikkhu.github.io/tipitaka-xml/playground/mul.vin0.xml"
     //console.log(data);
     const parser = new DOMParser();
     const xml = parser.parseFromString(data, "application/xml");
-    console.log(xml);
+    // console.log(xml);
+
+    printData(xml);
   });
+
+function printData(xml) {
+  const chapters = xml.querySelector("chapter");
+
+  chapters.forEach((chapter) => {
+    console.log(chapter);
+  });
+}

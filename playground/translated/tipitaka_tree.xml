@@ -1,0 +1,293 @@
+<tree name="Tipiṭaka">
+  <folder name="Mūla">
+    <folder name="Vinayapiṭaka">
+      <book name="Pārājikapāḷi" href="mul.vin0" />
+      <book name="Pācittiyapāḷi" href="mul.vin1" />
+      <book name="Mahāvaggapāḷi" href="mul.vin2" />
+      <book name="Cūḷavaggapāḷi" href="mul.vin3" />
+      <book name="Parivārapāḷi" href="mul.vin4" />
+    </folder>
+    <folder name="Suttapiṭaka">
+      <folder name="Dīghanikāya">
+        <book name="Sīlakkhandhavaggapāḷi" href="mul.dn0" />
+        <book name="Mahāvaggapāḷi" href="mul.dn1" />
+        <book name="Pāthikavaggapāḷi" href="mul.dn2" />
+      </folder>
+      <folder name="Majjhimanikāya">
+        <book name="Mūlapaṇṇāsapāḷi" href="mul.mn0" />
+        <book name="Majjhimapaṇṇāsapāḷi" href="mul.mn1" />
+        <book name="Uparipaṇṇāsapāḷi" href="mul.mn2" />
+      </folder>
+      <folder name="Saṃyuttanikāya">
+        <book name="Sagāthāvaggapāḷi" href="mul.sn0" />
+        <book name="Nidānavaggapāḷi" href="mul.sn1" />
+        <book name="Khandhavaggapāḷi" href="mul.sn2" />
+        <book name="Saḷāyatanavaggapāḷi" href="mul.sn3" />
+        <book name="Mahāvaggapāḷi" href="mul.sn4" />
+      </folder>
+      <folder name="Aṅguttaranikāya">
+        <book name="Ekakanipātapāḷi" href="mul.an0" />
+        <book name="Dukanipātapāḷi" href="mul.an1" />
+        <book name="Tikanipātapāḷi" href="mul.an2" />
+        <book name="Catukkanipātapāḷi" href="mul.an3" />
+        <book name="Pañcakanipātapāḷi" href="mul.an4" />
+        <book name="Chakkanipātapāḷi" href="mul.an5" />
+        <book name="Sattakanipātapāḷi" href="mul.an6" />
+        <book name="Aṭṭhakādinipātapāḷi" href="mul.an7" />
+        <book name="Navakanipātapāḷi" href="mul.an8" />
+        <book name="Dasakanipātapāḷi" href="mul.an9" />
+        <book name="Ekādasakanipātapāḷi" href="mul.an10" />
+      </folder>
+      <folder name="Khuddakanikāya">
+        <book name="Khuddakapāṭhapāḷi" href="mul.khn0" />
+        <book name="Dhammapadapāḷi" href="mul.khn1" />
+        <book name="Udānapāḷi" href="mul.khn2" />
+        <book name="Itivuttakapāḷi" href="mul.khn3" />
+        <book name="Suttanipātapāḷi" href="mul.khn4" />
+        <book name="Vimānavatthupāḷi" href="mul.khn5" />
+        <book name="Petavatthupāḷi" href="mul.khn6" />
+        <book name="Theragāthāpāḷi" href="mul.khn7" />
+        <book name="Therīgāthāpāḷi" href="mul.khn8" />
+        <book name="Apadānapāḷi-1" href="mul.khn9" />
+        <book name="Apadānapāḷi-2" href="mul.khn10" />
+        <book name="Buddhavaṃsapāḷi" href="mul.khn11" />
+        <book name="Cariyāpiṭakapāḷi" href="mul.khn12" />
+        <book name="Jātakapāḷi-1" href="mul.khn13" />
+        <book name="Jātakapāḷi-2" href="mul.khn14" />
+        <book name="Mahāniddesapāḷi" href="mul.khn15" />
+        <book name="Cūḷaniddesapāḷi" href="mul.khn16" />
+        <book name="Paṭisambhidāmaggapāḷi" href="mul.khn17" />
+        <book name="Nettippakaraṇapāḷi" href="mul.khn18" />
+        <book name="Milindapañhapāḷi" href="mul.khn19" />
+        <book name="Peṭakopadesapāḷi" href="mul.khn20" />
+      </folder>
+    </folder>
+    <folder name="Abhidhammapiṭaka">
+      <book name="Dhammasaṅgaṇīpāḷi" href="mul.abh0" />
+      <book name="Vibhaṅgapāḷi" href="mul.abh1" />
+      <book name="Dhātukathāpāḷi" href="mul.abh2" />
+      <book name="Puggalapaññattipāḷi" href="mul.abh3" />
+      <book name="Kathāvatthupāḷi" href="mul.abh4" />
+      <book name="Yamakapāḷi-1" href="mul.abh5" />
+      <book name="Yamakapāḷi-2" href="mul.abh6" />
+      <book name="Yamakapāḷi-3" href="mul.abh7" />
+      <book name="Paṭṭhānapāḷi-1" href="mul.abh8" />
+      <book name="Paṭṭhānapāḷi-2" href="mul.abh9" />
+      <book name="Paṭṭhānapāḷi-3" href="mul.abh10" />
+      <book name="Paṭṭhānapāḷi-4" href="mul.abh11" />
+      <book name="Paṭṭhānapāḷi-5" href="mul.abh12" />
+    </folder>
+  </folder>
+  <folder name="Aṭṭhakathā">
+    <folder name="Vinayapiṭaka (aṭṭhakathā)">
+      <book name="Pārājikakaṇḍa-aṭṭhakathā" href="aṭṭh.vin0" />
+      <book name="Pācittiya-aṭṭhakathā" href="aṭṭh.vin1" />
+      <book name="Mahāvagga-aṭṭhakathā" href="aṭṭh.vin2" />
+      <book name="Cūḷavagga-aṭṭhakathā" href="aṭṭh.vin3" />
+      <book name="Parivāra-aṭṭhakathā" href="aṭṭh.vin4" />
+    </folder>
+    <folder name="Suttapiṭaka (aṭṭhakathā)">
+      <folder name="Dīgha nikāya (aṭṭhakathā)">
+        <book name="Sīlakkhandhavagga-aṭṭhakathā" href="aṭṭh.dn.0" />
+        <book name="Mahāvagga-aṭṭhakathā" href="aṭṭh.dn.1" />
+        <book name="Pāthikavagga-aṭṭhakathā" href="aṭṭh.dn.2" />
+      </folder>
+      <folder name="Majjhimanikāya (aṭṭhakathā)">
+        <book name="Mūlapaṇṇāsa-aṭṭhakathā" href="aṭṭh.mn.0" />
+        <book name="Majjhimapaṇṇāsa-aṭṭhakathā" href="aṭṭh.mn.1" />
+        <book name="Uparipaṇṇāsa-aṭṭhakathā" href="aṭṭh.mn.2" />
+      </folder>
+      <folder name="Saṃyuttanikāya (aṭṭhakathā)">
+        <book name="Sagāthāvagga-aṭṭhakathā" href="aṭṭh.sn.0" />
+        <book name="Nidānavagga-aṭṭhakathā" href="aṭṭh.sn.1" />
+        <book name="Khandhavagga-aṭṭhakathā" href="aṭṭh.sn.2" />
+        <book name="Saḷāyatanavagga-aṭṭhakathā" href="aṭṭh.sn.3" />
+        <book name="Mahāvagga-aṭṭhakathā" href="aṭṭh.sn.4" />
+      </folder>
+      <folder name="Aṅguttaranikāya (aṭṭhakathā)">
+        <book name="Ekakanipāta-aṭṭhakathā" href="aṭṭh.an.0" />
+        <book name="Duka-tika-catukkanipāta-aṭṭhakathā" href="aṭṭh.an.1" />
+        <book name="Pañcaka-chakka-sattakanipāta-aṭṭhakathā" href="aṭṭh.an.2" />
+        <book name="Aṭṭhakādinipāta-aṭṭhakathā" href="aṭṭh.an.3" />
+      </folder>
+      <folder name="Khuddakanikāya (aṭṭhakathā)">
+        <book name="Khuddakapāṭha-aṭṭhakathā" href="aṭṭh.khn.0" />
+        <book name="Dhammapada-aṭṭhakathā" href="aṭṭh.khn.1" />
+        <book name="Udāna-aṭṭhakathā" href="aṭṭh.khn.2" />
+        <book name="Itivuttaka-aṭṭhakathā" href="aṭṭh.khn.3" />
+        <book name="Suttanipāta-aṭṭhakathā" href="aṭṭh.khn.4" />
+        <book name="Vimānavatthu-aṭṭhakathā" href="aṭṭh.khn.5" />
+        <book name="Petavatthu-aṭṭhakathā" href="aṭṭh.khn.6" />
+        <book name="Theragāthā-aṭṭhakathā-1" href="aṭṭh.khn.7" />
+        <book name="Theragāthā-aṭṭhakathā-2" href="aṭṭh.khn.8" />
+        <book name="Therīgāthā-aṭṭhakathā" href="aṭṭh.khn.9" />
+        <book name="Apadāna-aṭṭhakathā" href="aṭṭh.khn.10" />
+        <book name="Buddhavaṃsa-aṭṭhakathā" href="aṭṭh.khn.11" />
+        <book name="Cariyāpiṭaka-aṭṭhakathā" href="aṭṭh.khn.12" />
+        <book name="Jātaka-aṭṭhakathā-1" href="aṭṭh.khn.13" />
+        <book name="Jātaka-aṭṭhakathā-2" href="aṭṭh.khn.14" />
+        <book name="Jātaka-aṭṭhakathā-3" href="aṭṭh.khn.15" />
+        <book name="Jātaka-aṭṭhakathā-4" href="aṭṭh.khn.16" />
+        <book name="Jātaka-aṭṭhakathā-5" href="aṭṭh.khn.17" />
+        <book name="Jātaka-aṭṭhakathā-6" href="aṭṭh.khn.18" />
+        <book name="Jātaka-aṭṭhakathā-7" href="aṭṭh.khn.19" />
+        <book name="Mahāniddesa-aṭṭhakathā" href="aṭṭh.khn.20" />
+        <book name="Cūḷaniddesa-aṭṭhakathā" href="aṭṭh.khn.21" />
+        <book name="Paṭisambhidāmagga-aṭṭhakathā" href="aṭṭh.khn.22" />
+        <book name="Nettippakaraṇa-aṭṭhakathā" href="aṭṭh.khn.23" />
+      </folder>
+    </folder>
+    <folder name="Abhidhammapiṭaka (aṭṭhakathā)">
+      <book name="Dhammasaṅgaṇi-aṭṭhakathā" href="aṭṭh.abh.0" />
+      <book name="Sammohavinodanī-aṭṭhakathā" href="aṭṭh.abh.1" />
+      <book name="Pañcapakaraṇa-aṭṭhakathā" href="aṭṭh.abh.2" />
+    </folder>
+  </folder>
+  <folder name="Tīkā">
+    <folder name="Vinayapiṭaka (ṭīkā)">
+      <book name="Sāratthadīpanī-ṭīkā-1" href="tik.vin0" />
+      <book name="Sāratthadīpanī-ṭīkā-2" href="tik.vin1" />
+      <book name="Sāratthadīpanī-ṭīkā-3" href="tik.vin2" />
+      <book name="Dvemātikāpāḷi" href="tik.vin3" />
+      <book name="Vinayasaṅgaha-aṭṭhakathā" href="tik.vin4" />
+      <book name="Vajirabuddhi-ṭīkā" href="tik.vin5" />
+      <book name="Vimativinodanī-ṭīkā" href="tik.vin6" />
+      <book name="Vinayālaṅkāra-ṭīkā" href="tik.vin7" />
+      <book name="Kaṅkhāvitaraṇīpurāṇa-ṭīkā" href="tik.vin8" />
+      <book name="Vinayavinicchaya-uttaravinicchaya" href="tik.vin9" />
+      <book name="Vinayavinicchaya-ṭīkā" href="tik.vin10" />
+      <book name="Pācityādiyojanāpāḷi" href="tik.vin11" />
+      <book name="Khuddasikkhā-mūlasikkhā" href="tik.vin12" />
+    </folder>
+    <folder name="Suttapiṭaka (ṭīkā)">
+      <folder name="Dīghanikāya (ṭīkā)">
+        <book name="Sīlakkhandhavagga-ṭīkā" href="tik.dn0" />
+        <book name="Mahāvagga-ṭīkā" href="tik.dn1" />
+        <book name="Pāthikavagga-ṭīkā" href="tik.dn2" />
+        <book name="Sīlakkhandhavagga-abhinavaṭīkā-1" href="tik.dn3" />
+        <book name="Sīlakkhandhavagga-abhinavaṭīkā-2" href="tik.dn4" />
+      </folder>
+      <folder name="Majjhimanikāya (ṭīkā)">
+        <book name="Mūlapaṇṇāsa-ṭīkā" href="tik.mn0" />
+        <book name="Majjhimapaṇṇāsa-ṭīkā" href="tik.mn1" />
+        <book name="Uparipaṇṇāsa-ṭīkā" href="tik.mn2" />
+      </folder>
+      <folder name="Saṃyuttanikāya (ṭīkā)">
+        <book name="Sagāthāvagga-ṭīkā" href="tik.sn0" />
+        <book name="Nidānavagga-ṭīkā" href="tik.sn1" />
+        <book name="Khandhavagga-ṭīkā" href="tik.sn2" />
+        <book name="Saḷāyatanavagga-ṭīkā" href="tik.sn3" />
+        <book name="Mahāvagga-ṭīkā" href="tik.sn4" />
+      </folder>
+      <folder name="Aṅguttaranikāya (ṭīkā)">
+        <book name="Ekakanipāta-ṭīkā" href="tik.an0" />
+        <book name="Duka-tika-catukkanipāta-ṭīkā" href="tik.an1" />
+        <book name="Pañcaka-chakka-sattakanipāta-ṭīkā" href="tik.an2" />
+        <book name="Aṭṭhakādinipāta-ṭīkā" href="tik.an3" />
+      </folder>
+      <folder name="Khuddakanikāya (ṭīkā)">
+        <book name="Nettippakaraṇa-ṭīkā" href="tik.khn0" />
+        <book name="Nettivibhāvinī" href="tik.khn1" />
+      </folder>
+    </folder>
+    <folder name="Abhidhammapiṭaka (ṭīkā)">
+      <book name="Dhammasaṅgaṇī-mūlaṭīkā" key="tik.abh0" />
+      <book name="Vibhaṅga-mūlaṭīkā" key="tik.abh1" />
+      <book name="Pañcapakaraṇa-mūlaṭīkā" key="tik.abh2" />
+      <book name="Dhammasaṅgaṇī-anuṭīkā" key="tik.abh3" />
+      <book name="Pañcapakaraṇa-anuṭīkā" key="tik.abh4" />
+      <book name="Abhidhammāvatāro-nāmarūpaparicchedo" key="tik.abh5" />
+      <book name="Abhidhammatthasaṅgaho" key="tik.abh6" />
+      <book name="Abhidhammāvatāra-purāṇaṭīkā" key="tik.abh7" />
+      <book name="Abhidhammamātikāpāḷi" key="tik.abh8" />
+    </folder>
+  </folder>
+  <folder name="Anya">
+    <folder name="Visuddhimagga">
+      <book name="Visuddhimagga-1" key="ann.vm0" />
+      <book name="Visuddhimagga-2" key="ann.vm1" />
+      <book name="Visuddhimagga-mahāṭīkā-1" key="ann.vm2" />
+      <book name="Visuddhimagga-mahāṭīkā-2" key="ann.vm3" />
+      <book name="Visuddhimagga nidānakathā" key="ann.vm4" />
+    </folder>
+    <folder name="Saṅgāyana-puccha vissajjanā">
+      <book name="Dīghanikāya (pu-vi)" key="ann.spv0" />
+      <book name="Majjhimanikāya (pu-vi)" key="ann.spv1" />
+      <book name="Saṃyuttanikāya (pu-vi)" key="ann.spv2" />
+      <book name="Aṅguttaranikāya (pu-vi)" key="ann.spv3" />
+      <book name="Vinayapiṭaka (pu-vi)" key="ann.spv4" />
+      <book name="Abhidhammapiṭaka (pu-vi)" key="ann.spv5" />
+      <book name="Aṭṭhakathā (pu-vi)" key="ann.spv6" />
+    </folder>
+    <folder name="Leḍī sayāḍo gantha-saṅgaho">
+      <book name="Niruttidīpanī" key="ann.lsgs0" />
+      <book name="Paramatthadīpanī Saṅgahamahāṭīkāpāṭha" key="ann.lsgs1" />
+      <book name="Anudīpanīpāṭha" key="ann.lsgs2" />
+      <book name="Paṭṭhānuddesa dīpanīpāṭha" key="ann.lsgs3" />
+    </folder>
+    <folder name="Buddha-vandanā gantha-saṅgaho">
+      <book name="Namakkāraṭīkā" key="ann.bvgs0" />
+      <book name="Mahāpaṇāmapāṭha" key="ann.bvgs1" />
+      <book name="Lakkhaṇāto buddhathomanāgāthā" key="ann.bvgs2" />
+      <book name="Sutavandanā" key="ann.bvgs3" />
+      <book name="Kamalāñjali" key="ann.bvgs4" />
+      <book name="Jinālaṅkāra" key="ann.bvgs5" />
+      <book name="Pajjamadhu" key="ann.bvgs6" />
+      <book name="Buddhaguṇagāthāvalī" key="ann.bvgs7" />
+    </folder>
+    <folder name="Vaṃsa-gantha-saṅgaho">
+      <book name="Cūḷaganthavaṃsa" key="ann.vgs0" />
+      <book name="Mahāvaṃsa" key="ann.vgs1" />
+      <book name="Sāsanavaṃsa" key="ann.vgs2" />
+    </folder>
+    <folder name="Byākaraṇa gantha-saṅgaho">
+      <book name="Kaccāyanabyākaraṇaṃ" key="ann.bgs0" />
+      <book name="Moggallānabyākaraṇaṃ" key="ann.bgs1" />
+      <book name="Saddanītippakaraṇaṃ (padamālā)" key="ann.bgs2" />
+      <book name="Saddanītippakaraṇaṃ (dhātumālā)" key="ann.bgs3" />
+      <book name="Padarūpasiddhi" key="ann.bgs4" />
+      <book name="Mogallānapañcikā" key="ann.bgs5" />
+      <book name="Payogasiddhipāṭha" key="ann.bgs6" />
+      <book name="Vuttodayapāṭha" key="ann.bgs7" />
+      <book name="Abhidhānappadīpikāpāṭha" key="ann.bgs8" />
+      <book name="Abhidhānappadīpikāṭīkā" key="ann.bgs9" />
+      <book name="Subodhālaṅkārapāṭha" key="ann.bgs10" />
+      <book name="Subodhālaṅkāraṭīkā" key="ann.bgs11" />
+      <book name="Bālāvatāra gaṇṭhipadatthavinicchayasāra" key="ann.bgs12" />
+    </folder>
+    <folder name="Nīti-gantha-saṅgaho">
+      <book name="Lokanīti" key="ann.ngs0" />
+      <book name="Suttantanīti" key="ann.ngs1" />
+      <book name="Sūrassatinīti" key="ann.ngs2" />
+      <book name="Mahārahanīti" key="ann.ngs3" />
+      <book name="Dhammanīti" key="ann.ngs4" />
+      <book name="Kavidappaṇanīti" key="ann.ngs5" />
+      <book name="Nītimañjarī" key="ann.ngs6" />
+      <book name="Naradakkhadīpanī" key="ann.ngs7" />
+      <book name="Caturārakkhadīpanī" key="ann.ngs8" />
+      <book name="Cāṇakyanīti" key="ann.ngs9" />
+    </folder>
+    <folder name="Pakiṇṇaka-gantha-saṅgaho">
+      <book name="Rasavāhinī" key="ann.pgs0" />
+      <book name="Sīmavisodhanīpāṭha" key="ann.pgs1" />
+      <book name="Vessantaragīti" key="ann.pgs2" />
+    </folder>
+    <folder name="Sihaḷa-gantha-saṅgaho">
+      <book name="Moggallāna vuttivivaraṇapañcikā" key="ann.sgs0" />
+      <book name="Thūpavaṃsa" key="ann.sgs1" />
+      <book name="Dāṭhāvaṃsa" key="ann.sgs2" />
+      <book name="Dhātupāṭhavilāsiniyā" key="ann.sgs3" />
+      <book name="Dhātuvaṃsa" key="ann.sgs4" />
+      <book name="Hatthavanagallavihāravaṃsa" key="ann.sgs5" />
+      <book name="Jinacaritaya" key="ann.sgs6" />
+      <book name="Jinavaṃsadīpaṃ" key="ann.sgs7" />
+      <book name="Telakaṭāhagāthā" key="ann.sgs8" />
+      <book name="Milidaṭīkā" key="ann.sgs9" />
+      <book name="Padamañjarī" key="ann.sgs10" />
+      <book name="Padasādhanaṃ" key="ann.sgs11" />
+      <book name="Saddabindupakaraṇaṃ" key="ann.sgs12" />
+      <book name="Kaccāyanadhātumañjusā" key="ann.sgs13" />
+      <book name="Sāmantakūṭavaṇṇanā" key="ann.sgs14" />
+    </folder>
+  </folder>
+</tree>
