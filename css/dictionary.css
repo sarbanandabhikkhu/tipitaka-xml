@@ -21,7 +21,7 @@
 
 /* Action Panel */
 .action-btn {
-  position: fixed;
+  position: absolute;
   top: 25px;
   right: 5%;
   padding: 5px;
