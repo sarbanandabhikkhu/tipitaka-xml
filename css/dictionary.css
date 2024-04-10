@@ -9,51 +9,59 @@
   background: rgba(252, 252, 252, 0.99);
   box-shadow: 0 0 9px rgba(9, 9, 9, 0.3);
   display: none;
-}
 
-#dic-action {
-  padding: 5px 10px;
-  display: flex;
-  justify-content: space-between;
-  background-color: rgba(0, 0, 0, 0.05);
-}
+  #dic-action {
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.05);
 
-#dic-action-left {
-  display: flex;
-}
+    #dic-action-left {
+      display: flex;
 
-#dic-action-left img {
-  width: 30px;
-  height: 25px;
-  padding: 3px;
-  margin: 0 5px 0 -5px;
-}
+      img {
+        width: 30px;
+        height: 25px;
+        padding: 3px;
+        margin: 0 5px 0 -5px;
+      }
 
-#dic-action input {
-  padding: 2.5px 5px;
-  border-radius: 2.5px;
-  border: 1px solid rgba(0, 0, 0, 0.09);
-}
-#dic-action-btns button {
-  padding: 2.5px 5px;
-  border-radius: 2.5px;
-  background-color: transparent;
+      input {
+        padding: 2.5px 5px;
+        border-radius: 2.5px;
+        border: 1px solid rgba(0, 0, 0, 0.09);
+      }
+    }
 
-  color: #c0c0c0;
-  cursor: not-allowed;
-  pointer-events: none;
-}
-#dic-action-btns button:first-child {
-  color: #0174fd;
-  background-color: rgba(0, 0, 0, 0.09);
-}
+    #dic-action-btns {
+      button {
+        padding: 2.5px 5px;
+        border-radius: 2.5px;
+        background-color: transparent;
+        color: #c0c0c0;
+        cursor: not-allowed;
+        pointer-events: none;
+      }
 
-#dic-body {
-  padding: 5px 10px;
-}
+      button:first-child {
+        color: #0174fd;
+        background-color: rgba(0, 0, 0, 0.09);
+      }
+    }
+  }
 
-#dic-body h3 {
-  color: #0174fd;
+  #dic-body {
+    padding: 5px 10px;
+
+    h3 {
+      color: #0174fd;
+      font-weight: 500;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
 }
 
 @media (max-width: 360px) {
