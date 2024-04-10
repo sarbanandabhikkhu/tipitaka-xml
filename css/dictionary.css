@@ -22,8 +22,8 @@
 /* Action Panel */
 .action-btn {
   position: absolute;
-  top: 25px;
-  right: 5%;
+  top: 15px;
+  right: 3%;
   padding: 5px;
   border-radius: 5px;
   background-color: transparent;
@@ -40,7 +40,7 @@
   right: 5%;
   padding: 8px 12px;
   border-radius: 5px;
-  box-shadow: 0px 2px 3px #0174fd;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
 }
 
 /* dictionary panel */
