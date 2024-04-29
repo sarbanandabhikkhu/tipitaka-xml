@@ -106,8 +106,18 @@
       font-weight: 500;
     }
 
-    p {
-      margin: 0;
+    div {
+      margin: 10px 0;
+      margin-bottom: 50px;
+
+      p {
+        margin: 0;
+        margin-bottom: 7px;
+
+        .ref-dic {
+          color: #0174fd;
+        }
+      }
     }
   }
 }
